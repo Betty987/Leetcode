@@ -1,2 +1,2 @@
 # LeetCode
-This is a repository of all my submissions to leet code
+This is a repository for all my submissions to leet code
