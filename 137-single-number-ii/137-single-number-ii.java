@@ -1,18 +1,14 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        long setsum=0;
-        long numssum=0;
-        HashSet<Integer> set = new HashSet<Integer>();
-        for(int x:nums){
-            numssum+=x;
-            if(set.contains(x)){
-                continue;
-            }
-            setsum+=x;
-            set.add(x);
+        HashMap<Integer,Integer> map = new HashMap<>();
+        for(int i:nums){
+            map.put(i,map.getOrDefault(i,0)+1);
         }
-        return (int)((setsum*3-numssum)/2);
+        for(int i:map.keySet()){
+            if(map.get(i)==1){
+                return i;
+            }
+        }
+        return -1;
     }
 }
-
-
