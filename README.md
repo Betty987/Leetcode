@@ -11,6 +11,7 @@ This is a repository for my submissions to leet code
 | ------- |
 | [0072-edit-distance](https://github.com/Betty987/Leetcode/tree/master/0072-edit-distance) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Betty987/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Betty987/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -19,4 +20,9 @@ This is a repository for my submissions to leet code
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Betty987/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Betty987/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+## Array
+|  |
+| ------- |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Betty987/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
